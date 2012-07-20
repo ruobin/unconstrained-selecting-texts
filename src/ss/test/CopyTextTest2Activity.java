@@ -31,7 +31,7 @@ public class CopyTextTest2Activity extends Activity implements OnTouchListener{
 			values = "" + i + "  sdfsfjskldfhsklhskdfsdhf"
 					+ "fsdfaskhfkshdfkskdfskldf"
 					+ "dfskdfhkshdfkshdkiuiouweoruweoruwoeruwoer"
-					+ "opkspdfmmbb" + "" + "dsfasdfsdfsdfsdferwre";
+					+ "opkspdfmmbb" +"dsfasdfsdfsdfsdferwre";
 			stringList.add(values);
 		}
 

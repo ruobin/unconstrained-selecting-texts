@@ -46,13 +46,4 @@ public class MyListAdapter extends BaseAdapter {
 		myTextView.setText(entity);
 		return myTextView;
 	}
-	
-	public boolean dispatchTouchEvent(MotionEvent ev) {
-       
-        if (((Activity) context).getWindow().superDispatchTouchEvent(ev)) {
-            return true;
-        }
-        return false;
-    }
-
 }

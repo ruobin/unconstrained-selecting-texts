@@ -1,4 +1,6 @@
+
 function:
-unconstrained-selecting-texts
+
+unconstrained-selecting-texts in the Android ListView
 
 should be supported from Android firmware version 2.1 to 4.0
